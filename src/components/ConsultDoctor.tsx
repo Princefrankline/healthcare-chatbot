@@ -2,9 +2,9 @@ import { motion } from "framer-motion";
 import { Phone, MessageCircle, MapPin, AlertTriangle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
-const WHATSAPP_NUMBER = "911800180104"; // National Health Helpline
+const WHATSAPP_NUMBER = "7548857695"; // National Health Helpline
 const EMERGENCY_NUMBER = "112";
-const AMBULANCE_NUMBER = "102";
+const AMBULANCE_NUMBER = "108";
 
 export function ConsultDoctor() {
   const handleWhatsAppClick = () => {

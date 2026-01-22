@@ -2,7 +2,7 @@ import { Phone, AlertCircle, Heart } from "lucide-react";
 
 const emergencyNumbers = [
   { label: "Emergency", number: "112" },
-  { label: "Ambulance", number: "102 / 108" },
+  { label: "Ambulance", number: "108" },
   { label: "Health Helpline", number: "1800-180-1104" },
   { label: "COVID Helpline", number: "1075" },
 ];
@@ -52,7 +52,7 @@ export function Footer() {
         {/* Copyright */}
         <div className="text-center text-xs text-muted-foreground">
           <p className="flex items-center justify-center gap-1">
-            Made with <Heart className="w-3 h-3 text-destructive" /> for a healthier India
+            Made by Poornima for a healthier India
           </p>
           <p className="mt-1">© 2024 Chatbot Healthcare • சுகாதார உதவி</p>
         </div>
