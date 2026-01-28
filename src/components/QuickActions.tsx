@@ -28,9 +28,9 @@ const quickActions: QuickAction[] = [
   },
   {
     icon: ThermometerSun,
-    label: "Fever & Cold",
-    labelHindi: "காய்ச்சல் & சளி",
-    query: "I have fever and cold symptoms. What precautions should I take?",
+    label: "Neuro",
+    labelHindi: "நரம்பு மண்டலம்",
+    query: "What are the nervous system related problems?",
     color: "bg-warning/10 text-warning hover:bg-warning/20",
   },
   {
