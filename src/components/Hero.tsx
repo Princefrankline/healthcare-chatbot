@@ -47,7 +47,7 @@ export function Hero() {
           </div>
           
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground mb-4">
-            <span className="gradient-text">Poornima's Chatbot</span>
+            <span className="gradient-text">Healthcare Chatbot</span>
             <br />
             <span className="text-2xl sm:text-3xl lg:text-4xl">சுகாதார உதவி</span>
           </h1>
