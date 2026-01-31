@@ -54,7 +54,7 @@ export function Footer() {
           <p className="flex items-center justify-center gap-1">
             Made by Poornima for a healthier India
           </p>
-          <p className="mt-1">© 2024 Chatbot Healthcare • சுகாதார உதவி</p>
+          <p className="mt-1">© 2026 Chatbot Healthcare • சுகாதார உதவி</p>
         </div>
       </div>
     </footer>

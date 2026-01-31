@@ -30,7 +30,11 @@ const quickActions: QuickAction[] = [
     icon: ThermometerSun,
     label: "Neuro",
     labelHindi: "நரம்பு மண்டலம்",
+<<<<<<< HEAD
     query: "What are the symptoms of neurological disorders?",
+=======
+    query: "What are the nervous system related problems?",
+>>>>>>> 92a9adb0385f4e6ade4084931aed5fdc911f9747
     color: "bg-warning/10 text-warning hover:bg-warning/20",
   },
   {
